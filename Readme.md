@@ -1,4 +1,4 @@
-# create-wcui
+# @bd/wcui-cli
 一个快速创建wcui项目的小工具
 
 
