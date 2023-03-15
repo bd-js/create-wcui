@@ -1,12 +1,13 @@
 {
   "name": "@bd/wcui-cli",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": {
     "wcui-cli": "index.js"
   },
   "dependencies": {
     "@bytedo/sass": "^1.58.3",
+    "chokidar": "^3.5.3",
     "esbuild": "^0.17.11",
     "iofs": "^1.5.2",
     "kolorist": "^1.6.0"
