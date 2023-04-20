@@ -1,5 +1,5 @@
 {
-  "name": "@bd/wcui-cli",
+  "name": "@bd/cli",
   "type": "module",
   "version": "1.2.3",
   "bin": {
