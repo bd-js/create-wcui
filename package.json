@@ -1,7 +1,7 @@
 {
   "name": "@bd/wcui-cli",
   "type": "module",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "bin": {
     "wcui-cli": "index.js"
   },
